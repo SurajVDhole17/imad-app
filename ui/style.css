@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.container{
+    padding-left:10px;
+     padding-right:10px;
+     font-family:sans-serif;
+}
